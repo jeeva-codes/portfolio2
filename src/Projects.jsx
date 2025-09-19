@@ -26,8 +26,8 @@ function Projects() {
             <SiExpress size={'40px'}/>
         </div>
         <div className='flex justify-around'>
-            <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman">Demo</a></button>  
-          <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman">Code</a></button>  
+            <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://coffeeman.netlify.app/" target='blank'>Demo</a></button>  
+          <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman" target='blank'>Code</a></button>  
         </div>     
         </div>
     </div>
@@ -48,8 +48,8 @@ function Projects() {
             <RiTailwindCssFill size={'40px'}/>
         </div>
         <div className='flex justify-around'>
-            <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman">Demo</a></button>  
-          <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman">Code</a></button>  
+            <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://suvaiexpress.netlify.app" target='blank'>Demo</a></button>  
+          <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Suvai-Express" target='blank'>Code</a></button>  
         </div>     
         </div>
     </div>
@@ -69,8 +69,8 @@ function Projects() {
             <FaReact size={'40px'}/>
         </div>
         <div className='flex justify-around'>
-            <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman">Demo</a></button>  
-          <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/Coffeman">Code</a></button>  
+            <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://animelist-project.netlify.app/" target='blank'>Demo</a></button>  
+          <button className='p-2 border-2' data-aos="zoom-in-up"><a href="https://github.com/jeeva-codes/AnimeList" target='blank'>Code</a></button>  
         </div>     
         </div>
     </div>

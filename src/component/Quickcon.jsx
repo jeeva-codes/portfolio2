@@ -18,7 +18,7 @@ function makeCall() {
     window.location.href = `tel:${6374874464}`;
   }
   return (
-    <div className="fixed bottom-4 right-4">
+    <div className="fixed bottom-10 right-10">
       <div className="flex flex-col items-end gap-2">
         {/* Message content */}
         {show && (
