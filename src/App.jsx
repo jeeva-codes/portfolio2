@@ -16,7 +16,7 @@ function App() {
       <Quickcon/>
       <Skills/>
       <Projects/>
-      {/* <Contact/> */}
+      <Contact/>
     </div>
 
   )
