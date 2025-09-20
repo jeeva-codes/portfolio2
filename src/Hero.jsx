@@ -16,7 +16,7 @@ function Hero() {
       <div className="mt-5 mb-5">
         <img src="/img/js_5968292.png" alt="" className="size-40 m-auto rounded-full" />
       </div>
-      <p className="w-80 m-auto mb-8 text-2xl">A passionate React developer eager to create engaging web experiences</p>
+      <p className="w-80 m-auto mb-8 text-1xl">A passionate React developer eager to create engaging web experiences</p>
         <div className="flex justify-center">
             <div className="flex gap-3 mt-2" data-aos="fade-up"  data-aos-delay="40"
     data-aos-duration="1000"
@@ -25,7 +25,7 @@ function Hero() {
                 <a href="https://github.com/jeeva-codes" target="blank"> <FaGithub className="size-8"/></a>
             </div>
             <a href="/Jeeva-Reactdev-Resume.pdf" download>
-                 <button className="p-2 text-2xl font-semibold text-black rounded-3xl bg-green-400  ml-3" data-aos="fade-up"  data-aos-delay="150"
+                 <button className="p-2 text-1xl font-semibold text-black rounded-3xl bg-green-400  ml-3" data-aos="fade-up"  data-aos-delay="150"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out">Download Resume</button>
             </a>

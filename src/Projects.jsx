@@ -10,7 +10,7 @@ function Projects() {
   return (
   
    <div  >
-    <h1 className='text-3xl mb-3 pl-6 md:pl-15'>Projects</h1>
+    <h1 className='text-2xl mb-3 pl-6 md:pl-15'>Projects</h1>
      <div className='pl-8 pr-10 mb-3 '  data-aos='fade-up-right' data-aos-delay="20"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out">
@@ -34,7 +34,7 @@ function Projects() {
         <p className='mt-5 md:w-150 m-auto'>Developed Coffeeman, a responsive e-commerce web application showcasing coffee, tea, and cool drink products using React.js and Tailwind CSS.Implemented user authentication (register & login) with Express.js and MongoDB Atlas, ensuring secure data handling.</p>
     </div>
 
-     <div className='pl-8 pr-10 mb-3' data-aos='fade-up-left' data-aos-delay="20"
+     <div className='pl-8 pr-10 mb-3' data-aos='fade-up-right' data-aos-delay="20"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out">
          <div className='flex justify-between  md:justify-around'>

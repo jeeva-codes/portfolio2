@@ -4,7 +4,7 @@ import { FaArrowRight } from 'react-icons/fa'
 function Contact() {
   return (
     <div className='pb-10 '>
-        <h1 className='text-3xl pl-6 mb-6 md:pl-15'>Contact Me</h1>
+        <h1 className='text-2xl pl-6 mb-6 md:pl-15'>Contact Me</h1>
    <div className="contact-form text-center">
       <form action="https://api.web3forms.com/submit" method="POST">
       <input type="hidden" name="access_key" value="28bfeca3-c4f9-440b-b8b1-43170f36278a"></input><br />
