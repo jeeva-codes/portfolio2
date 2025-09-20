@@ -14,7 +14,7 @@ function Hero() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6, ease: "easeOut" }} className="text-2xl">React Developer</motion.h1>
       <div className="mt-5 mb-5">
-        <img src="/img/js_5968292.png" alt="" className="size-40 m-auto rounded-full" />
+        <img src="/img/1754115403967.jpg" alt="" className="size-40 m-auto rounded-full" />
       </div>
       <p className="w-80 m-auto mb-8 text-1xl">A passionate React developer eager to create engaging web experiences</p>
         <div className="flex justify-center">
