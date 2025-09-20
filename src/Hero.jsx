@@ -27,7 +27,7 @@ function Hero() {
             <a href="/Jeeva-Reactdev-Resume.pdf" download>
                  <button className="p-2 text-1xl font-semibold text-black rounded-3xl bg-green-400  ml-3" data-aos="fade-up"  data-aos-delay="150"
     data-aos-duration="1000"
-    data-aos-easing="ease-in-out">Download Resume</button>
+    data-aos-easing="ease-in-out">DownloadResume</button>
             </a>
            
         </div>
