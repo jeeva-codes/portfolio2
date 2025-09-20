@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&family=Fredoka:wght@300..700&family=Fugaz+One&display=swap');
 @import "tailwindcss";
 
 body{
   letter-spacing: 0.2px;
+  font-family: "Fredoka", sans-serif;
 }

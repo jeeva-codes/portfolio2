@@ -19,7 +19,7 @@ function Projects() {
          <img src="/img/coffeeman.png" alt="" className='size-30 mt-5' />
         </div>
         <div>
-        <h2 className='text-center mb-5 text-2xl'>Coffeeman</h2>
+        <h2 className='text-center mb-5 text-2xl eaglelake'>Coffeeman</h2>
         <div className='grid grid-cols-3 gap-4 mb-5'>
             <FaReact size={'40px'}/>
             <SiMongodb size={'40px'}/>
